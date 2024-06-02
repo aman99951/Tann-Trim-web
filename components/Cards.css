@@ -1,0 +1,66 @@
+.main{
+    margin-top: 32px;
+    margin-left: 62px;
+    height: 2000px;
+}
+.card{
+
+   margin-top: 35px;
+   display: inline-flex;
+   
+   
+}
+.card div{
+    width: 280.15px;
+    height:auto;
+    background-color: rgb(26, 24, 24);
+    border-radius: 10px;
+    margin-right: 32px;
+  
+}
+.card div .img{
+    width: 288.30px;
+    height: 350.53px;
+    border-top-left-radius:10px;
+    border-top-right-radius: 10px;
+}
+.card div h1{
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    font-size: 21px;
+}
+
+.card div ul svg{  
+    font-size: large;
+    width: 50px;
+    height: 40px;
+    margin-left: 5px;
+  
+     
+}
+
+.card div ul{
+    display: flex;
+    margin-bottom: 15px;
+}
+.card div ul li span{
+    font-size: x-large;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+.card  .price{
+    font-size: larger;
+ margin-right: 0px;
+ margin-top: 5px;
+}
+.card .svg2 svg{
+
+    margin-left: 100px;
+}
+.card div  .tag{
+   position: absolute;
+   margin-left: 240px;
+   margin-top: 10px;
+   background-color: transparent;
+}

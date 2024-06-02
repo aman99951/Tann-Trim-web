@@ -1,0 +1,11 @@
+
+.items{
+  margin-top: 40px;
+  margin-left: 32px;
+}
+.items ul{
+    display: inline-flex;
+}
+.items ul li{
+    padding-right: 73px;
+}

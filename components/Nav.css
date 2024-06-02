@@ -1,0 +1,43 @@
+.nav{
+  
+    border: 0px solid ;
+    margin-top: 25px;
+    margin-left: 32px;
+}
+
+a{
+width: 100px;
+margin-left: 10px;
+text-decoration: none;
+font-style: inherit;
+font-size: large;
+font-weight: 200;
+padding-right: 3px;
+color: rgb(226, 220, 220);
+}
+.nav ul{
+    display: inline-flex;
+    margin-left: 73%;   
+}
+.nav ul li{
+    padding-left: 40px;
+}
+.nav ul li svg{
+    font-weight: 400;
+    color: rgb(226, 220, 220);
+}
+.nav-down{
+    font-weight: 200;
+    margin-top: 30px;
+    color: rgb(226, 220, 220);
+}
+.nav-down ul{
+    display: inline-flex;
+    margin-left: 34%;  
+    
+}
+.nav-down ul li{
+    font-size: 14px;
+     color: #E5DFD9;
+    padding-left: 40px;
+}
